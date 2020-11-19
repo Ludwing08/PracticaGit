@@ -9,5 +9,7 @@
  * @author Intel
  */
 public class Operaciones {
-    
+    public void Suma (int a, int b){
+        System.out.println("el resultado de la suma es:"+(a+b));
+    }
 }
