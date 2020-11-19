@@ -9,5 +9,8 @@
  * @author Intel
  */
 public class Operaciones {
-    
+    public void restar(int a, int b){
+        System.out.println("La resta es: " + (a-b));
+        
+    }
 }
